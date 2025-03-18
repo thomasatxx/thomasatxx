@@ -2,7 +2,7 @@
 
 <br/>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thomasatxx&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&token=${{ secrets.MY_GITHUB_TOKEN }})
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thomasatxx&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&token=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)
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasatxx&layout=compact&theme=radical&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 

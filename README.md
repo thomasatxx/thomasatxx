@@ -4,7 +4,7 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thomasatxx&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasatxx&layout=compact&theme=radical&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasatxx&layout=compact&theme=radical&langs_count=6&locale=pt-br&token=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)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---

@@ -2,10 +2,6 @@
 
 <br/>
 
-<<< Estou cursando Bacharelado em Engenharia de Software no 4º semestre, com duração total de 7 semestres e previsão de formação para agosto de 2026. >>>  
-
-<br/>
-
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thomasatxx&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasatxx&layout=compact&theme=radical&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)

@@ -12,6 +12,7 @@
     <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     <img align="center" alt="GitHub" src="https://img.shields.io/badge/docker-181717?style=for-the-badge&logo=docker&logoColor=white" />
     <img align="center" alt="GitHub" src="https://img.shields.io/badge/aws-181717?style=for-the-badge&logo=aws&logoColor=white" />
+    <img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 </div>
     
 ---
